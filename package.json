@@ -1,0 +1,19 @@
+{
+    "name": "medieval-finance-ca",
+    "version": "1.0.0",
+    "description": "Medieval Finance Smart Contracts",
+    "keywords": [
+      "sonic",
+      "smart-contracts",
+      "openzeppelin",
+      "medievalfinance",
+      "medievalfi",
+      "SHIELD",
+      "KNIGHT"
+    ],
+    "author": "Medieval-Finance",
+    "license": "MIT",
+    "dependencies": {
+      "@openzeppelin/contracts": "^5.2.0"
+    }
+  } 
